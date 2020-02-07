@@ -1,0 +1,9 @@
+[{"cityName": "福州", "confirmedCount": 47, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350100},
+    {"cityName": "莆田", "confirmedCount": 34, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350300},
+    {"cityName": "泉州", "confirmedCount": 31, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350500}, 
+    {"cityName": "厦门", "confirmedCount": 19, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350200}, 
+    {"cityName": "漳州", "confirmedCount": 13, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350600}, 
+    {"cityName": "宁德", "confirmedCount": 12, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350900}, 
+    {"cityName": "三明", "confirmedCount": 11, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350400},
+    {"cityName": "南平", "confirmedCount": 11, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350700}, 
+    {"cityName": "龙岩", "confirmedCount": 1, "suspectedCount": 0, "curedCount": 0, "deadCount": 0, "locationId": 350800}]
